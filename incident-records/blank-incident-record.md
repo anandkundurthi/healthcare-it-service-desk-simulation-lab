@@ -1,0 +1,23 @@
+# Blank Healthcare IT Training Incident Record
+
+- Incident ID:
+- Fictional caller:
+- Date/time:
+- Contact channel:
+- Service / device:
+- Short description:
+- Detailed symptoms:
+- Scope / affected users:
+- Impact:
+- Urgency:
+- Priority (using practice matrix):
+- Category:
+- Initial questions:
+- Diagnostic steps:
+- Actual findings:
+- User update:
+- Assignment group:
+- Escalation reason:
+- Next action:
+- Resolution / closure:
+- Rehearsal status: Not rehearsed
